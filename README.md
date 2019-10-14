@@ -7,8 +7,11 @@ They can filter companies that use the technologies they like
 And that use communication in Real Time using Socket
 
 Express 4.17.1
+
 React 16.10.2
+
 React Native 0.59.0
+
 
 ### Stack
 
